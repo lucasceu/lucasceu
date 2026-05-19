@@ -15,6 +15,7 @@ Analista de dados
 
 - Foco em analise de dados, BI e modelagem
 - Experiencia com SQL, Python e pipelines de dados
+- Experiencia com cultura data-driven e tomada de decisao baseada em dados
 - Interesse em ML aplicado a negocios
 
 ## Contato
